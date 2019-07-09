@@ -22,13 +22,18 @@ What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
     Fill in your answer here
+So that you can see the changes and respond on to that merge-conflict and solve it.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
     Fill in your answer here
 
+Sending an email about the changes. It would harder to point out what changes was made but easier maybe to send.
+
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
     Fill in your answer here
+
+When you wanna testing something new and don't want to set the collabration in danger in the project.
